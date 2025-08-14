@@ -12,7 +12,7 @@
 
 ## Yêu cầu hệ thống
 
--   **Java Development Kit (JDK)**: Phiên bản 11 trở lên.
+-   **Java Development Kit (JDK)**: Phiên bản 21 trở lên.
 -   **Gradle**: Dự án sử dụng Gradle để quản lý và xây dựng. Tuy nhiên, bạn không cần cài đặt Gradle riêng vì dự án đã đi kèm với Gradle Wrapper (`gradlew`).
 
 ## Hướng dẫn khởi chạy chương trình
